@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">International</string>
+    <string name="Mensaje1">Esta App ilustra el manejo de recursos para diferentes configuraciones locales para dispositivos.</string>
+    <string name="Mensaje">Actualmente el móvil tiene configuración en español.</string>
+    <string name="strCancel">Cancelar</string>
+    <string name="strAceptar">Aceptar</string>
+</resources>

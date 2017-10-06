@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">International</string>
+    <string name="Mensaje1">This App illustrates the handling of resources for different local configurations for devices.</string>
+    <string name="Mensaje">Currently the mobile has configuration in english.</string>
+    <string name="strCancel">Cancel</string>
+    <string name="strAceptar">Ok</string>
+</resources>
